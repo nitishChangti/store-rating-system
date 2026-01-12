@@ -416,10 +416,3 @@ curl -X POST http://localhost:3000/ratings \
 * Keep changes focused and include tests where possible
 
 ---
-
-## License
-
-MIT
-(Add a `LICENSE` file if you want an explicit license)
-
----
